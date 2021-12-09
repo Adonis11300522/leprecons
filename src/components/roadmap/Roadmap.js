@@ -13,7 +13,7 @@ import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timel
 import 'react-vertical-timeline-component/style.min.css';
 function Roadmap() {
   return (
-    <div className="Roadmap" id="Roadmapaaaaaa">
+    <div className="Roadmap" id="Roadmap">
       <div className="Roadmapwave">
           <img src={Roadmapwave} alt="Roadmapwave"/>
       </div>

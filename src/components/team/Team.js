@@ -23,19 +23,19 @@ function Team() {
                     <img src={Avatar1} alt="Avatar1"/>
                     <h5>Alfie Robles</h5>
                     <p>Art God</p>
-                    <NavLink href="https://twitter.com/THEAlfieRobles?t=9Dwau1tOiMQIenMLBznkUQ&s=09"><FaTwitter/>@THEAlfieRobles</NavLink>
+                    <NavLink href="https://twitter.com/THEAlfieRobles?t=9Dwau1tOiMQIenMLBznkUQ&s=09" target="_blank"><FaTwitter/>@THEAlfieRobles</NavLink>
                 </div>
                 <div className="Team-member">
                     <img src={Avatar2} alt="Avatar1"/>
                     <h5>Phasad</h5>
                     <p>Operations </p>
-                    <NavLink href="https://twitter.com/Phasad2323?t=ZjoZZMSvI0LuWDhcW18_lQ&s=09"><FaTwitter/>@Phasad2323</NavLink>
+                    <NavLink href="https://twitter.com/Phasad2323?t=ZjoZZMSvI0LuWDhcW18_lQ&s=09" target="_blank"><FaTwitter/>@Phasad2323</NavLink>
                 </div>
                 <div className="Team-member">
                     <img src={Avatar3} alt="Avatar1"/>
                     <h5>UmerHQ</h5>
                     <p>Divine Dev</p>
-                    <NavLink href="https://twitter.com/umerhqureshi?t=YdOGrFe91HzILJz7ACrt3A&s=09"><FaTwitter/>@umerhqureshi</NavLink>
+                    <NavLink href="https://twitter.com/umerhqureshi?t=YdOGrFe91HzILJz7ACrt3A&s=09" target="_blank"><FaTwitter/>@umerhqureshi</NavLink>
                 </div>
             </div>
         </Container>

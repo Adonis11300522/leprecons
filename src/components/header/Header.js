@@ -18,9 +18,9 @@ function Header() {
                          <Nav.Link href="/#Club">CLUB</Nav.Link>
                          <Nav.Link href="/#Roadmap">ROADMAP</Nav.Link>
                          <Nav.Link href="/#Team">TEAM</Nav.Link>
-                         <Nav.Link href="/#FAQS">FAQS</Nav.Link>
+                         <Nav.Link href="/#Faqs">FAQS</Nav.Link>
                      </Nav>
-                     <a className="join-btn" href="https://discord.gg/JCXW9Qucux">JOIN DISCORD</a>
+                     <a className="join-btn" href="https://discord.gg/JCXW9Qucux" target="_blank">JOIN DISCORD</a>
                  </Navbar.Collapse>
              </Container>
          </Navbar>
