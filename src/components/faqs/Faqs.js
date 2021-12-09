@@ -9,7 +9,7 @@ function Faqs() {
 
   return (
     <div className="Faqs">
-      <div className="Faqswave"><img src={Faqswave} alt="Faqswave"/></div>
+      <div className="Faqswave" id="/#Faq"><img src={Faqswave} alt="Faqswave"/></div>
       <div className="Faqs-main">
         <Container className="Faqs-main-body pt-4 pb-4">
             <div className="Faqs-main-title">
@@ -66,7 +66,7 @@ function Faqs() {
             <div className="Faqs-main-discord mt-5">
                 <h4>THE PARTY NEVER STOPS</h4>
                 <h3 className="mb-5">GET LUCKY WITH US! JOIN OUR DISCORD</h3>
-                <Button>Let's Start</Button>
+                <a href="https://discord.gg/JCXW9Qucux">Let's Start</a>
             </div>
         </Container>
       </div>

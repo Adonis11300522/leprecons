@@ -6,7 +6,7 @@ import './About.css';
 
 function About() {
   return (
-    <div className="About">
+    <div className="About" id="About">
       <div className="Aboutwave"><img src={Aboutwave} alt="Aboutwave"/></div>
       <div className="About-main">
           <Container className="About-main-body pt-4 pb-4">

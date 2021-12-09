@@ -48,7 +48,7 @@ function Club() {
       };
 
   return (
-    <div className="Club">
+    <div className="Club" id="Club">
       <div className="Clubwave"><img src={Clubwave} alt="Clubwave"/></div>
       <div className="Club-main">
           <Container>

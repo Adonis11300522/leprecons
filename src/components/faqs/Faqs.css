@@ -116,7 +116,7 @@
     text-align: center;
 }
 
-.Faqs .Faqs-main .Faqs-main-body .Faqs-main-discord button{
+.Faqs .Faqs-main .Faqs-main-body .Faqs-main-discord a{
     font-size: 40px;
     font-weight: 900;
     color: white;
@@ -124,6 +124,12 @@
     border-radius: 50px;
     padding: 0 30px;
     border: none;
+    text-decoration: none;
+}
+
+.Faqs .Faqs-main .Faqs-main-body .Faqs-main-discord a:hover {
+    background: white;
+    color: #1E5631;
 }
 
 @media screen and (max-width:991px) {

@@ -13,14 +13,14 @@ function Header() {
                  <Navbar.Collapse id="responsive-navbar-nav">
                      <Nav>
                          <Nav.Link href="#">HOME</Nav.Link>
-                         <Nav.Link href="#">LORE</Nav.Link>
-                         <Nav.Link href="#">ABOUT</Nav.Link>
-                         <Nav.Link href="#">CLUB</Nav.Link>
-                         <Nav.Link href="#">ROADMAP</Nav.Link>
-                         <Nav.Link href="#">TEAM</Nav.Link>
-                         <Nav.Link href="#">FAQS</Nav.Link>
+                         <Nav.Link href="/#Lore">LORE</Nav.Link>
+                         <Nav.Link href="/#About">ABOUT</Nav.Link>
+                         <Nav.Link href="/#Club">CLUB</Nav.Link>
+                         <Nav.Link href="/#Roadmap">ROADMAP</Nav.Link>
+                         <Nav.Link href="/#Team">TEAM</Nav.Link>
+                         <Nav.Link href="/#FAQS">FAQS</Nav.Link>
                      </Nav>
-                     <Button>JOIN DISCORD</Button>
+                     <a className="join-btn" href="https://discord.gg/JCXW9Qucux">JOIN DISCORD</a>
                  </Navbar.Collapse>
              </Container>
          </Navbar>

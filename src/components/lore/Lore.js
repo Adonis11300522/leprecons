@@ -9,7 +9,7 @@ import './Lore.css';
 
 function Lore() {
   return (
-    <div className="Lore">
+    <div className="Lore" id="Lore">
       <div className="Lorewave"><img src={Lorewave} alt="Lorewave"/></div>
       <div className="Lore-main">
           <Container className="Lore-main-body">

@@ -43,13 +43,14 @@
 }
 
 
-.Header .navbar .navbar-collapse button {
+.Header .navbar .navbar-collapse a.join-btn {
     font-weight: 900;
     color: #1e5631;
     background: white;
     border: none;
     border-radius: 50px;
     padding: 0.25rem 0.75rem;
+    text-decoration: none;
 }
 
 @media screen and (max-width:991px) {

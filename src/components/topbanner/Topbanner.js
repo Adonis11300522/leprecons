@@ -11,6 +11,9 @@ function Topbanner() {
       <div className="Topbanner-main">
           <img src={Banner} alt="banner"/>
       </div>
+      <Container>
+        <Button className="mint-button">Mint</Button>
+      </Container>
     </div>
   );
 }
